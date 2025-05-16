@@ -1,7 +1,5 @@
 # Exercise Tracker API
 
-![Preview](assets/exercisetracker.png)
-
 ## Descripción
 
 Este proyecto es una API y aplicación web para el seguimiento de ejercicios, desarrollada con Node.js, Express y MongoDB (Mongoose). Permite crear usuarios, registrar ejercicios y consultar el historial de actividades de cada usuario.
